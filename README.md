@@ -1,7 +1,7 @@
 # GateBarrier_CarParkSystem
 Physical Computing Year 2's Project
 
-
+<br/><br/>
 
 **ที่มาและจุดประสงค์**
 
@@ -10,6 +10,7 @@ Physical Computing Year 2's Project
 รวมถึงระบบการยกไม้กั้นของอาคารจอดรถ โดยทางผู้จัดทำได้จำลอง ระบบตรวจจับ, วัดระยะห่างด้วย Ultra Sonic และสัญญาณเตือนของรถยนต์
 ด้วยลำโพง Buzzer และมีการเพิ่มลูกเล่นด้วยการใช้ LED ในการแสดงผลระยะห่างแบบคร่าวๆ
 
+<br/>
 
 **การทำงานของวงจร**
 
@@ -22,6 +23,7 @@ Physical Computing Year 2's Project
 	
 โดยในแต่ละระยะ Buzzer จะส่งเสียงร้องในย่านความถี่ที่แตกต่างกัน
 
+<br/>
 
 **ชิ้นงานในส่วน Hardware**
 	
@@ -30,5 +32,7 @@ Physical Computing Year 2's Project
 - Micro Servo 9g
 - Buzzer Module Low Level Trigger
 - Arduino uno
+
+<br/>
 
 **Link สาธิตการทำงาน** : https://youtu.be/PwEJIAvrumU
