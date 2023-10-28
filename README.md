@@ -1,7 +1,7 @@
 # GateBarrier_CarParkSystem
 Physical Computing Year 2's Project
 
-### ที่มาและจุดประสงค์
+**ที่มาและจุดประสงค์**
 
 &nbsp;&nbsp;&nbsp;&nbsp;เนื่องจากในปัจจุบัน รถยนต์เป็นหนึ่งในยานพาหนะยอดนิยมในการเดินทางขนส่ง และเมื่อจำนวนรถยนต์เยอะขึ้น อาคาร/สถานที่สำหรับการจอดรถยนต์
 ที่มีความปลอดภัยย่อมมีความสำคัญมากขึ้น ทางผู้จัดทำจึงอยากศึกษาเทคโนโลยีที่ใช้ในการตรวจจับ, วัดระยะห่าง และสัญญาณเตือนของรถยนต์
@@ -9,7 +9,7 @@ Physical Computing Year 2's Project
 ด้วยลำโพง Buzzer และมีการเพิ่มลูกเล่นด้วยการใช้ LED ในการแสดงผลระยะห่างแบบคร่าวๆ
 
 
-### การทำงานของวงจร
+**การทำงานของวงจร**
 
 &nbsp;&nbsp;&nbsp;&nbsp;Ultrasonic จะทำการตรวจสอบระยะห่าง และส่งข้อมูลให้แก่ Arduino uno เพื่อนำไปเข้าเงื่อนไขในการทำงานของ Servo, LED และ Buzzer ต่อไป
 โดยมีหลักการทำงานดังนี้
@@ -21,7 +21,7 @@ Physical Computing Year 2's Project
 โดยในแต่ละระยะ Buzzer จะส่งเสียงร้องในย่านความถี่ที่แตกต่างกัน
 
 
-### ชิ้นงานในส่วน Hardware
+**ชิ้นงานในส่วน Hardware**
 	
 - RGB LED
 - HC-SR04
@@ -29,4 +29,4 @@ Physical Computing Year 2's Project
 - Buzzer Module Low Level Trigger
 - Arduino uno
 
-### Link สาธิตการทำงาน : https://youtu.be/PwEJIAvrumU
+**Link สาธิตการทำงาน** : https://youtu.be/PwEJIAvrumU
