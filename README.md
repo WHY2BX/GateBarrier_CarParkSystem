@@ -3,6 +3,10 @@ Physical Computing Year 2's Project
 
 <br/>
 
+![alt text](https://github.com/WHY2BX/GateBarrier_CarParkSystem/blob/main/Poster%20C.png)
+
+<br/>
+
 <ins> **ที่มาและจุดประสงค์** </ins> 
 
 &nbsp;&nbsp;&nbsp;&nbsp;เนื่องจากในปัจจุบัน รถยนต์เป็นหนึ่งในยานพาหนะยอดนิยมในการเดินทางขนส่ง และเมื่อจำนวนรถยนต์เยอะขึ้น อาคาร/สถานที่สำหรับการจอดรถยนต์
