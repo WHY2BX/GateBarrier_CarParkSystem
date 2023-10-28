@@ -12,7 +12,7 @@ Physical Computing Year 2's Project
 
 <br/>
 
-<u>**การทำงานของวงจร**</u>
+<ins> **การทำงานของวงจร** </ins>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Ultrasonic จะทำการตรวจสอบระยะห่าง และส่งข้อมูลให้แก่ Arduino uno เพื่อนำไปเข้าเงื่อนไขในการทำงานของ Servo, LED และ Buzzer ต่อไป
 โดยมีหลักการทำงานดังนี้
@@ -25,7 +25,7 @@ Physical Computing Year 2's Project
 
 <br/>
 
-<u>**ชิ้นงานในส่วน Hardware**</u>
+<ins> **ชิ้นงานในส่วน Hardware** </ins>
 	
 - RGB LED
 - HC-SR04
