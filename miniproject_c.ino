@@ -1,4 +1,4 @@
-#define sec 50 //13วินาที
+#define sec 50
 #include <Servo.h>
 #include <NewPing.h>
 
@@ -93,11 +93,11 @@ void loop()
     digitalWrite(led3_Blue,HIGH);
     digitalWrite(led3_Green,HIGH);
 
-    digitalWrite(buzzer , LOW); //หยุดร้อง
-    delay(1000); // หยุดร้อง 1 วินาที  
+    digitalWrite(buzzer , LOW);
+    delay(1000); 
 
-    motor.write(0); // สั่งให้ Servo หมุนไปองศาที่ 
-    delay(100); // หน่วงเวลา 1000ms 
+    motor.write(0);
+    delay(100);
   }
   else if((distance<=30) && (distance>10)){
     digitalWrite(led1_Red,HIGH);
@@ -112,11 +112,11 @@ void loop()
     digitalWrite(led3_Blue,HIGH);
     digitalWrite(led3_Green,HIGH);
 
-    digitalWrite(buzzer , LOW); //หยุดร้อง
-    delay(500); // หยุดร้อง 1 วินาที  
+    digitalWrite(buzzer , LOW);
+    delay(500);  
 
-    motor.write(45); // สั่งให้ Servo หมุนไปองศาที่ 
-    delay(100); // หน่วงเวลา 1000ms
+    motor.write(45);
+    delay(100);
 
   }
   else if(distance<=10){
@@ -132,8 +132,8 @@ void loop()
     digitalWrite(led3_Blue,HIGH);
     digitalWrite(led3_Green,HIGH);
 
-    digitalWrite(buzzer , LOW); //หยุดร้อง
-    delay(100); // หยุดร้อง 1 วินาที 
+    digitalWrite(buzzer , LOW);
+    delay(100);
 
     motor.write(90); // สั่งให้ Servo หมุนไปองศาที่ 180
     delay(100); // หน่วงเวลา 1000ms
