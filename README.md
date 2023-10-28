@@ -1,7 +1,7 @@
 # GateBarrier_CarParkSystem
 Physical Computing Year 2's Project
 
-<br/><br/>
+<br/>
 
 **ที่มาและจุดประสงค์**
 
